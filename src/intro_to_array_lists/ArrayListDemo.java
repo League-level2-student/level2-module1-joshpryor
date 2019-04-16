@@ -8,9 +8,9 @@ public class ArrayListDemo {
 		//ArrayList of Strings
 		ArrayList<String> names = new ArrayList<String>();
 		
-		names.add("Jan");
-		names.add("Sara");
-		names.add("Fred");
+		names.add("Josh");
+		names.add("sam");
+		names.add("asher");
 		names.add("Marc");
 		
 		System.out.println("Here's an ArrayList of Strings:\n");
